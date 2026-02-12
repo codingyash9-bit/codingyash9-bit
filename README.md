@@ -1,136 +1,136 @@
-AI Systems Builder | C++ & DSA | FinTech Architect | Product Visionary
-🧠 About Me
+<h1 align="center">Yash Mahadeshvar</h1>
+<h3 align="center">AI Systems Builder | C++ & DSA | FinTech Architect | Product Architect</h3>
 
-I build intelligent systems that analyze markets, understand human behavior, and scale with logic.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Systems+Builder;C%2B%2B+%7C+DSA+Specialist;FinTech+Engine+Creator;Building+Scalable+Intelligence" />
+</p>
 
-Currently focused on:
+---
 
-Artificial Intelligence & Applied ML
+## 🚀 About Me
 
-Data Structures & Algorithms (C++)
+I build intelligent systems that analyze markets, understand human behavior, and scale with structured logic.
 
-Financial Intelligence Systems
+- 🧠 Deep focus on Artificial Intelligence & Applied ML  
+- ⚙️ Strong foundation in C++ & Data Structures  
+- 📊 Designing financial intelligence engines  
+- 🌌 Architecting emotion-aware digital ecosystems  
 
-Emotion-driven Product Architecture
+I prioritize long-term mastery over shortcuts.  
+Structure over noise. Depth over trends.
 
-I believe in long-term mastery over shortcuts.
-Engineering depth > surface-level hype.
+---
 
-🔥 What I’m Building
-🧠 IPOP – Intelligent IPO Analysis Engine
+## 🔥 Flagship Projects
 
-AI-powered IPO evaluation platform that:
-
-Scores IPOs (0–100)
-
-Classifies risk levels
-
-Separates GMP hype from fundamentals
-
-Evaluates long-term growth till 2027+
+### 🧠 IPOP – Intelligent IPO Prediction Engine
+AI-powered IPO analysis system that:
+- Scores IPOs (0–100)
+- Classifies risk levels
+- Separates GMP hype from fundamentals
+- Evaluates long-term potential till 2027+
 
 Built using structured financial modeling + AI reasoning layer.
 
-🌌 VESTA – Emotionally Intelligent Social Network
+---
 
-A next-generation AI-driven social platform focused on:
-
-AI-generated personality-based profiles
-
-Intelligent social expansion
-
-Emotional reward systems
-
-Gamified evolution levels
-
-Gaming ID matchmaking ecosystem
-
-Goal: Build a social platform that understands users beyond surface-level engagement.
-
-📈 AI Stock Analysis Engine
-
-Structured financial data model evaluating:
-
-DMA positioning
-
-RSI
-
-Valuation metrics
-
-Sector outlook
-
-Long-term compound potential
+### 📈 AI Stock Analysis Engine
+Structured evaluation system analyzing:
+- 50 DMA / 200 DMA positioning  
+- RSI & technical strength  
+- Revenue & profit growth  
+- Valuation metrics  
+- Sector outlook  
 
 Designed for logic-first investment decisions.
 
-⚙️ Tech Stack
+---
 
-Languages
+### 🌌 VESTA – Emotionally Intelligent Social Platform
+Next-gen AI social ecosystem featuring:
+- AI-generated personality-based profiles  
+- Intelligent social expansion algorithms  
+- Emotional reward loops  
+- Gamified evolution levels  
+- Gaming ID integration system  
 
-C++
+Goal: Build a platform that understands users beyond surface engagement.
 
-Python
+---
 
-JavaScript (UI layer)
+## ⚙️ Tech Stack
 
-Core Skills
+### 🧑‍💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Data Structures & Algorithms
+### 🧠 Core Expertise
+![Data Structures](https://img.shields.io/badge/Data%20Structures-red?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-orange?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge)
+![FinTech](https://img.shields.io/badge/FinTech-green?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-blue?style=for-the-badge)
 
-System Design Thinking
+---
 
-Financial Modeling
+## 📊 GitHub Analytics
 
-AI Integration (LLMs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingyash9-bit&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingyash9-bit&layout=compact&theme=radical" height="165"/>
+</p>
 
-JSON-based Data Architecture
+---
 
-Backend Logic Structuring
+## 🧱 Engineering Philosophy
 
-🎯 Current Focus
-
-Deep mastery of DSA (C++)
-
-Building scalable AI-powered systems
-
-Converting ideas into deployable products
-
-Financial intelligence automation
-
-📊 Developer Mindset
+```
 Discipline > Motivation
 Structure > Chaos
-Long-Term Growth > Short-Term Validation
+Long-Term Depth > Short-Term Hype
+```
 
-
-I don’t chase trends.
+I don’t chase trends.  
 I build systems.
 
-📍 Location
+---
 
-Mumbai, India 🇮🇳
-Building globally.
+## 🎯 Current Focus
 
-📌 Future Vision
+- Mastering Advanced DSA (C++)
+- Building scalable AI-driven financial systems
+- Designing production-ready architecture
+- Converting ideas into deployable products
 
-AI-native financial platforms
+---
 
-Emotion-aware digital ecosystems
+## 🌍 Location
 
-Scalable SaaS products
+Mumbai, India 🇮🇳  
+Building for global scale.
 
-High-performance algorithmic systems
+---
 
-🤝 Let’s Connect
+## 🔮 Vision
 
-If you’re building in:
+- AI-native financial intelligence platforms  
+- Emotion-aware digital ecosystems  
+- High-performance algorithmic systems  
+- Scalable SaaS products  
 
-AI
+---
 
-FinTech
+## 🤝 Connect With Me
 
-Deep-tech products
-
-Scalable startup systems
+If you're building in:
+- Artificial Intelligence  
+- FinTech  
+- Deep Tech  
+- Scalable product systems  
 
 Let’s collaborate.
+
+---
+
+⭐ “Don’t take shortcuts. Build depth.”
