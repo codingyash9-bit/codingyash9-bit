@@ -1,8 +1,8 @@
 <h1 align="center">Yash Mahadeshvar</h1>
-<h3 align="center">AI Systems Builder | C++ & DSA | FinTech Architect | Product Architect</h3>
+<h3 align="center">AI Systems Builder | C++ Developer | DSA Enthusiast | FinTech Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Systems+Builder;C%2B%2B+%7C+DSA+Specialist;FinTech+Engine+Creator;Building+Scalable+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Systems+Builder;C%2B%2B+Developer;DSA+Enthusiast;FinTech+Engine+Creator;Building+Scalable+Intelligence" />
 </p>
 
 ---
@@ -11,13 +11,14 @@
 
 I build intelligent systems that analyze markets, understand human behavior, and scale with structured logic.
 
-- 🧠 Deep focus on Artificial Intelligence & Applied ML  
-- ⚙️ Strong foundation in C++ & Data Structures  
+- 🧠 Exploring Artificial Intelligence & Applied ML  
+- ⚙️ Strong foundation in C++  
 - 📊 Designing financial intelligence engines  
 - 🌌 Architecting emotion-aware digital ecosystems  
+- 📚 Consistently improving in Data Structures & Algorithms  
 
-I prioritize long-term mastery over shortcuts.  
-Structure over noise. Depth over trends.
+I believe in long-term mastery over shortcuts.  
+Depth over noise. Consistency over hype.
 
 ---
 
@@ -65,7 +66,7 @@ Goal: Build a platform that understands users beyond surface engagement.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧠 Core Expertise
+### 🧠 Core Focus Areas
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-red?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-orange?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge)
@@ -88,11 +89,11 @@ Goal: Build a platform that understands users beyond surface engagement.
 ```
 Discipline > Motivation
 Structure > Chaos
-Long-Term Depth > Short-Term Hype
+Long-Term Depth > Short-Term Validation
 ```
 
 I don’t chase trends.  
-I build systems.
+I build systems and grow daily.
 
 ---
 
@@ -100,7 +101,7 @@ I build systems.
 
 - Mastering Advanced DSA (C++)
 - Building scalable AI-driven financial systems
-- Designing production-ready architecture
+- Strengthening problem-solving foundations
 - Converting ideas into deployable products
 
 ---
@@ -118,18 +119,6 @@ Building for global scale.
 - Emotion-aware digital ecosystems  
 - High-performance algorithmic systems  
 - Scalable SaaS products  
-
----
-
-## 🤝 Connect With Me
-
-If you're building in:
-- Artificial Intelligence  
-- FinTech  
-- Deep Tech  
-- Scalable product systems  
-
-Let’s collaborate.
 
 ---
 
