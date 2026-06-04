@@ -1,1043 +1,152 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=250&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=REALITY%20ARCHITECT%20%7C%20COGNITIVE%20ENGINEER&descSize=12&descAlignY=65&descColor=8A2BE2&stroke=00F7FF&strokeWidth=1" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Yash%20Mahadeshvar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">
+  AI Systems Builder • C++ Developer • DSA Enthusiast • FinTech Architect
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+ParsentAI+%26+FixIT;Designing+Emotion-Aware+Platforms;C%2B%2B+%7C+DSA+Growth+Journey;Structured+Thinking.+Scalable+Systems.;No+Shortcuts.+Only+Depth." />
+</p>
+
+---
+
+## 🧠 WHO AM I?
+
+```yaml
+name: Yash Mahadeshvar
+location: Mumbai, India
+focus: AI + Finance + Scalable Systems
+learning: Advanced DSA (C++)
+mission: Build intelligent systems that scale logically
+```
+
+> **I engineer ideas into structured systems.** <br>
+> Not experiments. Not random code. *Systems.*
+
+---
+
+## 🚀 LATEST DEPLOYMENTS
+
+### ⚡ FixIT – Automation CLI
+[![FixIT Status](https://img.shields.io/badge/Aura_Level-Over_9000-8A2BE2?style=for-the-badge)](#) [![Tech Stack](https://img.shields.io/badge/Node.js-Vanilla_JS-00FFFF?style=for-the-badge)](#)
+
+**Domain Expansion for Developers.** An advanced automation CLI and developer toolset designed to obliterate repetitive tasks and streamline workflows.
+- ⚙️ **Workflow Automation:** Execute complex dev tasks with single-line commands.
+- 💻 **Terminal Aura UI:** Custom CLI loading spinners and high-contrast color outputs.
+- 🛡️ **Bulletproof Logic:** Built to handle edge cases and heavy engineering workloads.
+
+### 🧠 ParsentAI – Cognitive AI Engine
+[![ParsentAI Status](https://img.shields.io/badge/AI_Core-Active-00F7FF?style=for-the-badge)](#) [![Tech Stack](https://img.shields.io/badge/Python-Machine_Learning-8A2BE2?style=for-the-badge)](#)
+
+**Intelligent Data Processing.** A next-generation AI system built to understand, parse, and structure complex inputs with high-speed precision. 
+- 📄 **Deep-Tech Parsing:** Converts unstructured chaos into structured logic.
+- ⚡ **High-Speed Processing:** Optimized architecture for rapid data evaluation.
+- 🤖 **Neural Extraction:** Context-aware data handling and generation.
+
+---
+
+## 🌌 CORE ARCHITECTURE (PREVIOUS BUILDS)
+
+<details>
+  <summary><b>📈 IPOP & AI Stock Engine (FinTech)</b></summary>
+  <br>
+  <b>IPOP – Intelligent IPO Prediction Engine</b><br>
+  Turning IPO hype into data-backed clarity:
+  <ul>
+    <li>📊 Financial scoring (0–100) & Risk classification</li>
+    <li>📈 Long-term evaluation till 2027+</li>
+    <li>🧮 GMP vs fundamentals separation with an AI reasoning layer</li>
+  </ul>
+  <br>
+  <b>AI Stock Analysis Engine</b><br>
+  Designed for long-term compound decisions:
+  <ul>
+    <li>50 / 200 DMA positioning & RSI momentum strength</li>
+    <li>Revenue, profit growth, and valuation metrics</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>👤 VESTA – Emotionally Intelligent Social Ecosystem</b></summary>
+  <br>
+  <b>Next-gen AI social architecture:</b>
+  <ul>
+    <li>AI-generated personality-based profiles</li>
+    <li>Emotional reward loops & Social expansion intelligence</li>
+    <li>Gamified evolution layers with Gaming ID integration</li>
+  </ul>
+  <i>Goal: Social media that actually understands humans.</i>
+</details>
+
+---
+
+## ⚙️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,git,github,vscode,linux&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=✦+Products+are+temporary.+Ecosystems+are+eternal.;✦+Architecting+systems+that+behave+like+living+organisms.;✦+AI+%7C+Machine+Learning+%7C+Infrastructure+Intelligence;✦+Emotion-aware+networks.+Scalable+logic.+Zero+noise.;✦+Initializing+Cognitive+Core...+[████████████████░░░░]" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-111111?style=for-the-badge&logoColor=white&color=D32F2F"/>
+  <img src="https://img.shields.io/badge/Algorithms-111111?style=for-the-badge&logoColor=white&color=F57C00"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logoColor=white&color=8A2BE2"/>
+  <img src="https://img.shields.io/badge/FinTech-111111?style=for-the-badge&logoColor=white&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge&logoColor=white&color=1976D2"/>
 </p>
+
+---
+
+## 📊 SYSTEM DIAGNOSTICS (GITHUB STATS)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingyash9-bit&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0f0f11" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingyash9-bit&theme=tokyonight&border_radius=15&hide_border=true&background=0f0f11" width="48%" />
+</div>
 
 <br>
 
 <div align="center">
-
-```ansi
-[0;36m┌────────────────────────────────────────────────────────────────┐[0m
-[0;36m│[0m  [0;35mSYS.ENTITY [0m[0;36m[v18.0] — CORE DIRECTIVE OVERRIDE[0m                 [0;36m│[0m
-[0;36m├────────────────────────────────────────────────────────────────┤[0m
-[0;36m│[0m  [0;37m> designation [0m→  Systems Architect / AI Ecosystem Builder     [0;36m│[0m
-[0;36m│[0m  [0;37m> philosophy  [0m→  What you are perceived as, you become.       [0;36m│[0m
-[0;36m│[0m  [0;37m> parameters  [0m→  AI + Human Psych + Infrastructure            [0;36m│[0m
-[0;36m│[0m  [0;37m> operations  [0m→  [0;32m● GDG TechSprint & Solution Challenge '26[0m    [0;36m│[0m
-[0;36m│[0m  [0;37m> status      [0m→  [0;32m● EXPANDING[0m                                  [0;36m│[0m
-[0;36m└────────────────────────────────────────────────────────────────┘[0m
-"I don't build features. I build emotion loops, behavioral systems, and identity feedback networks." — The Meta Framework
-
-[ 01 — COGNITIVE ECOSYSTEMS & INFRASTRUCTURE ]
-🌐 VESTA
-AI Social Intelligence Ecosystem
-
-Social media re-engineered for emotional resonance.
-
-Transforms the digital social layer from dopamine-farming to an emotionally intelligent identity network.
-
-✦ AI-generated personality intro profiles
-
-
-✦ Emotion-aware engagement & evolution badges
-
-
-✦ Weekly dynamic "refresh swipe" identity loops
-
-
-✦ Gaming ID neural integration (Valorant, BGMI)
-
-⚙️ fixIT
-Autonomous System Evolution Engine
-
-Infrastructure that heals and mutates itself.
-
-A self-evolving intelligence concept that moves beyond basic error correction into structural adaptation.
-
-✦ Failure Genome Mapping (structural breakdown)
-
-
-✦ Resilience Graph Brain (stability intelligence)
-
-
-✦ Mutation Proposal Engine (architecture evolution)
-
-
-✦ Predictive Incident Rehearsal forecasting
-
-📈 TradingRocket
-AI-Driven Market Strategy System
-
-Emotionless execution. Analysis-first design.
-
-A highly structured quantitative intelligence system built to ruthlessly isolate market math from human hype.
-
-✦ Paper-first strategy simulation intelligence
-
-
-✦ Yahoo Finance data layer ingestion
-
-
-✦ Modular API architecture for Zerodha Kite
-
-
-✦ Absolute risk-aware, system-based logic
-
-🧬 Nostalgia AI
-Cognitive Memory Companion
-
-Reconstructing the emotional architecture of the past.
-
-An experimental, emotionally intelligent system designed to map and simulate user nostalgia.
-
-✦ Memory Graph modeling user experiences
-
-
-✦ Era-specific conversational AI layers
-
-
-✦ Cultural dataset ingestion (cartoons, environments)
-
-
-✦ Identity + Memory resonance networking
-
-[ 02 — THE META-PROTOCOL ]
-What you are perceived as → shapes what you become → shapes what you output.
-
-A profound meta-framework for understanding and engineering human and digital identity systems. IPOP acts as the thinking layer behind every app, AI system, and user experience I architect. It maps how internal self-concept loops with external output (code, behavior, systems), bridging the gap between abstract thought and real-world execution.
-
-[ 03 — ACTIVE COMPILATIONS ]
-Plaintext
-[DSA Architecture  ] ██████████████░░░░░░  Striver A2Z aligned + C++ Mastery
-[Local AI Forges   ] █████████████████░░░  LM Studio + OpenClaw workflows
-[Global Sync       ] ████████████████████  GitHub local-first deployment mapping
-[AI/ML Operations  ] ████████████░░░░░░░░  AI for Bharat & Hackathon prototyping
-[ 04 — SYSTEM PRIMITIVES ]
-[ 05 — THE RUNTIME LOOP ]
-C++
-// yash_mahadeshvar.cpp — The Genesis Loop
-
-#include <Evolution>
-#include <Cognition>
-
-class RealityArchitect {
-private:
-    const Ecosystem philosophy = Ecosystem::BeyondFeatures;
-    
-public:
-    [[noreturn]] void execute_lifetime() {
-        while (system_is_online()) {
-My apologies for the confusion earlier. Let's make this incredibly simple and foolproof. 
-
-You only need to copy **one single block of code**. 
-
-Here is the exact step-by-step guide. Follow this, and your profile will be updated instantly.
-
-### Step 1: Open your GitHub editor
-1. Go to your special repository: [https://github.com/codingyash9-bit/codingyash9-bit](https://github.com/codingyash9-bit/codingyash9-bit)
-2. Open the **`README.md`** file.
-3. Click the **Pencil icon (✏️)** in the top right corner to edit the file.
-4. **Delete everything** currently in the text box so it is completely empty.
-
-### Step 2: Copy this exact block
-Click the **"Copy" button** in the top right corner of the block below. Copy everything inside this box:
-
-```html
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=250&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=REALITY%20ARCHITECT%20%7C%20COGNITIVE%20ENGINEER&descSize=12&descAlignY=65&descColor=8A2BE2&stroke=00F7FF&strokeWidth=1" alt="Header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=✦+Products+are+temporary.+Ecosystems+are+eternal.;✦+Architecting+systems+that+behave+like+living+organisms.;✦+AI+%7C+Machine+Learning+%7C+Infrastructure+Intelligence;✦+Emotion-aware+networks.+Scalable+logic.+Zero+noise.;✦+Initializing+Cognitive+Core...+[████████████████░░░░]" alt="Typing SVG"/>
-</p>
-
-<br>
-
-<div align="center">
-
-```ansi
-[0;36m┌────────────────────────────────────────────────────────────────┐[0m
-[0;36m│[0m  [0;35mSYS.ENTITY [0m[0;36m[v18.0] — CORE DIRECTIVE OVERRIDE[0m                 [0;36m│[0m
-[0;36m├────────────────────────────────────────────────────────────────┤[0m
-[0;36m│[0m  [0;37m> designation [0m→  Systems Architect / AI Ecosystem Builder     [0;36m│[0m
-[0;36m│[0m  [0;37m> philosophy  [0m→  What you are perceived as, you become.       [0;36m│[0m
-[0;36m│[0m  [0;37m> parameters  [0m→  AI + Human Psych + Infrastructure            [0;36m│[0m
-[0;36m│[0m  [0;37m> operations  [0m→  [0;32m● GDG TechSprint & Solution Challenge '26[0m    [0;36m│[0m
-[0;36m│[0m  [0;37m> status      [0m→  [0;32m● EXPANDING[0m                                  [0;36m│[0m
-[0;36m└────────────────────────────────────────────────────────────────┘[0m
-"I don't build features. I build emotion loops, behavioral systems, and identity feedback networks." — The Meta Framework
-
-[ 01 — COGNITIVE ECOSYSTEMS & INFRASTRUCTURE ]
-🌐 VESTA
-AI Social Intelligence Ecosystem
-
-Social media re-engineered for emotional resonance.
-
-Transforms the digital social layer from dopamine-farming to an emotionally intelligent identity network.
-
-✦ AI-generated personality intro profiles
-
-
-✦ Emotion-aware engagement & evolution badges
-
-
-✦ Weekly dynamic "refresh swipe" identity loops
-
-
-✦ Gaming ID neural integration (Valorant, BGMI)
-
-⚙️ fixIT
-Autonomous System Evolution Engine
-
-Infrastructure that heals and mutates itself.
-
-A self-evolving intelligence concept that moves beyond basic error correction into structural adaptation.
-
-✦ Failure Genome Mapping (structural breakdown)
-
-
-✦ Resilience Graph Brain (stability intelligence)
-
-
-✦ Mutation Proposal Engine (architecture evolution)
-
-
-✦ Predictive Incident Rehearsal forecasting
-
-📈 TradingRocket
-AI-Driven Market Strategy System
-
-Emotionless execution. Analysis-first design.
-
-A highly structured quantitative intelligence system built to ruthlessly isolate market math from human hype.
-
-✦ Paper-first strategy simulation intelligence
-
-
-✦ Yahoo Finance data layer ingestion
-
-
-✦ Modular API architecture for Zerodha Kite
-
-
-✦ Absolute risk-aware, system-based logic
-
-🧬 Nostalgia AI
-Cognitive Memory Companion
-
-Reconstructing the emotional architecture of the past.
-
-An experimental, emotionally intelligent system designed to map and simulate user nostalgia.
-
-✦ Memory Graph modeling user experiences
-
-
-✦ Era-specific conversational AI layers
-
-
-✦ Cultural dataset ingestion (cartoons, environments)
-
-
-✦ Identity + Memory resonance networking
-
-[ 02 — THE META-PROTOCOL ]
-What you are perceived as → shapes what you become → shapes what you output.
-
-A profound meta-framework for understanding and engineering human and digital identity systems. IPOP acts as the thinking layer behind every app, AI system, and user experience I architect. It maps how internal self-concept loops with external output (code, behavior, systems), bridging the gap between abstract thought and real-world execution.
-
-[ 03 — ACTIVE COMPILATIONS ]
-Plaintext
-[DSA Architecture  ] ██████████████░░░░░░  Striver A2Z aligned + C++ Mastery
-[Local AI Forges   ] █████████████████░░░  LM Studio + OpenClaw workflows
-[Global Sync       ] ████████████████████  GitHub local-first deployment mapping
-[AI/ML Operations  ] ████████████░░░░░░░░  AI for Bharat & Hackathon prototyping
-[ 04 — SYSTEM PRIMITIVES ]
-[ 05 — THE RUNTIME LOOP ]
-C++
-// yash_mahadeshvar.cpp — The Genesis Loop
-
-#include <Evolution>
-#include <Cognition>
-
-class RealityArchitect {
-private:
-    const Ecosystem philosophy = Ecosystem::BeyondFeatures;
-    
-public:
-    [[noreturn]] void execute_lifetime() {
-        while (system_is_online()) {
-            ingest_data(LocalAI | Advanced_DSA);
-            model_behavior(Psychology + GameMechanics);
-            architect_ecosystem();
-            
-My apologies for the confusion earlier. Let's make this incredibly simple and foolproof. 
-
-You only need to copy **one single block of code**. 
-
-Here is the exact step-by-step guide. Follow this, and your profile will be updated instantly.
-
-### Step 1: Open your GitHub editor
-1. Go to your special repository: [https://github.com/codingyash9-bit/codingyash9-bit](https://github.com/codingyash9-bit/codingyash9-bit)
-2. Open the **`README.md`** file.
-3. Click the **Pencil icon (✏️)** in the top right corner to edit the file.
-4. **Delete everything** currently in the text box so it is completely empty.
-
-### Step 2: Copy this exact block
-Click the **"Copy" button** in the top right corner of the block below. Copy everything inside this box:
-
-```html
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=250&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=REALITY%20ARCHITECT%20%7C%20COGNITIVE%20ENGINEER&descSize=12&descAlignY=65&descColor=8A2BE2&stroke=00F7FF&strokeWidth=1" alt="Header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=✦+Products+are+temporary.+Ecosystems+are+eternal.;✦+Architecting+systems+that+behave+like+living+organisms.;✦+AI+%7C+Machine+Learning+%7C+Infrastructure+Intelligence;✦+Emotion-aware+networks.+Scalable+logic.+Zero+noise.;✦+Initializing+Cognitive+Core...+[████████████████░░░░]" alt="Typing SVG"/>
-</p>
-
-<br>
-
-<div align="center">
-
-```ansi
-[0;36m┌────────────────────────────────────────────────────────────────┐[0m
-[0;36m│[0m  [0;35mSYS.ENTITY [0m[0;36m[v18.0] — CORE DIRECTIVE OVERRIDE[0m                 [0;36m│[0m
-[0;36m├────────────────────────────────────────────────────────────────┤[0m
-[0;36m│[0m  [0;37m> designation [0m→  Systems Architect / AI Ecosystem Builder     [0;36m│[0m
-[0;36m│[0m  [0;37m> philosophy  [0m→  What you are perceived as, you become.       [0;36m│[0m
-[0;36m│[0m  [0;37m> parameters  [0m→  AI + Human Psych + Infrastructure            [0;36m│[0m
-[0;36m│[0m  [0;37m> operations  [0m→  [0;32m● GDG TechSprint & Solution Challenge '26[0m    [0;36m│[0m
-[0;36m│[0m  [0;37m> status      [0m→  [0;32m● EXPANDING[0m                                  [0;36m│[0m
-[0;36m└────────────────────────────────────────────────────────────────┘[0m
-"I don't build features. I build emotion loops, behavioral systems, and identity feedback networks." — The Meta Framework
-
-[ 01 — COGNITIVE ECOSYSTEMS & INFRASTRUCTURE ]
-🌐 VESTA
-AI Social Intelligence Ecosystem
-
-Social media re-engineered for emotional resonance.
-
-Transforms the digital social layer from dopamine-farming to an emotionally intelligent identity network.
-
-✦ AI-generated personality intro profiles
-
-
-✦ Emotion-aware engagement & evolution badges
-
-
-✦ Weekly dynamic "refresh swipe" identity loops
-
-
-✦ Gaming ID neural integration (Valorant, BGMI)
-
-⚙️ fixIT
-Autonomous System Evolution Engine
-
-Infrastructure that heals and mutates itself.
-
-A self-evolving intelligence concept that moves beyond basic error correction into structural adaptation.
-
-✦ Failure Genome Mapping (structural breakdown)
-
-
-✦ Resilience Graph Brain (stability intelligence)
-
-
-✦ Mutation Proposal Engine (architecture evolution)
-
-
-✦ Predictive Incident Rehearsal forecasting
-
-📈 TradingRocket
-AI-Driven Market Strategy System
-
-Emotionless execution. Analysis-first design.
-
-A highly structured quantitative intelligence system built to ruthlessly isolate market math from human hype.
-
-✦ Paper-first strategy simulation intelligence
-
-
-✦ Yahoo Finance data layer ingestion
-
-
-✦ Modular API architecture for Zerodha Kite
-
-
-✦ Absolute risk-aware, system-based logic
-
-🧬 Nostalgia AI
-Cognitive Memory Companion
-
-Reconstructing the emotional architecture of the past.
-
-An experimental, emotionally intelligent system designed to map and simulate user nostalgia.
-
-✦ Memory Graph modeling user experiences
-
-
-✦ Era-specific conversational AI layers
-
-
-✦ Cultural dataset ingestion (cartoons, environments)
-
-
-✦ Identity + Memory resonance networking
-
-[ 02 — THE META-PROTOCOL ]
-What you are perceived as → shapes what you become → shapes what you output.
-
-A profound meta-framework for understanding and engineering human and digital identity systems. IPOP acts as the thinking layer behind every app, AI system, and user experience I architect. It maps how internal self-concept loops with external output (code, behavior, systems), bridging the gap between abstract thought and real-world execution.
-
-[ 03 — ACTIVE COMPILATIONS ]
-Plaintext
-[DSA Architecture  ] ██████████████░░░░░░  Striver A2Z aligned + C++ Mastery
-[Local AI Forges   ] █████████████████░░░  LM Studio + OpenClaw workflows
-[Global Sync       ] ████████████████████  GitHub local-first deployment mapping
-[AI/ML Operations  ] ████████████░░░░░░░░  AI for Bharat & Hackathon prototyping
-[ 04 — SYSTEM PRIMITIVES ]
-[ 05 — THE RUNTIME LOOP ]
-C++
-// yash_mahadeshvar.cpp — The Genesis Loop
-
-#include <Evolution>
-#include <Cognition>
-
-class RealityArchitect {
-private:
-    const Ecosystem philosophy = Ecosystem::BeyondFeatures;
-    
-public:
-    [[noreturn]] void execute_lifetime() {
-        while (system_is_online()) {
-            ingest_data(LocalAI | Advanced_DSA);
-            model_behavior(Psychology + GameMechanics);
-            architect_ecosystem();
-            
-            // Mutation Proposal: Systems must outlive their creator.
-            force_evolution(); 
-        }
-    }
-};
-
-int main() {
-    RealityArchitectMy apologies for the confusion earlier. Let's make this incredibly simple and foolproof. 
-
-You only need to copy **one single block of code**. 
-
-Here is the exact step-by-step guide. Follow this, and your profile will be updated instantly.
-
-### Step 1: Open your GitHub editor
-1. Go to your special repository: [https://github.com/codingyash9-bit/codingyash9-bit](https://github.com/codingyash9-bit/codingyash9-bit)
-2. Open the **`README.md`** file.
-3. Click the **Pencil icon (✏️)** in the top right corner to edit the file.
-4. **Delete everything** currently in the text box so it is completely empty.
-
-### Step 2: Copy this exact block
-Click the **"Copy" button** in the top right corner of the block below. Copy everything inside this box:
-
-```html
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=250&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=REALITY%20ARCHITECT%20%7C%20COGNITIVE%20ENGINEER&descSize=12&descAlignY=65&descColor=8A2BE2&stroke=00F7FF&strokeWidth=1" alt="Header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=✦+Products+are+temporary.+Ecosystems+are+eternal.;✦+Architecting+systems+that+behave+like+living+organisms.;✦+AI+%7C+Machine+Learning+%7C+Infrastructure+Intelligence;✦+Emotion-aware+networks.+Scalable+logic.+Zero+noise.;✦+Initializing+Cognitive+Core...+[████████████████░░░░]" alt="Typing SVG"/>
-</p>
-
-<br>
-
-<div align="center">
-
-```ansi
-[0;36m┌────────────────────────────────────────────────────────────────┐[0m
-[0;36m│[0m  [0;35mSYS.ENTITY [0m[0;36m[v18.0] — CORE DIRECTIVE OVERRIDE[0m                 [0;36m│[0m
-[0;36m├────────────────────────────────────────────────────────────────┤[0m
-[0;36m│[0m  [0;37m> designation [0m→  Systems Architect / AI Ecosystem Builder     [0;36m│[0m
-[0;36m│[0m  [0;37m> philosophy  [0m→  What you are perceived as, you become.       [0;36m│[0m
-[0;36m│[0m  [0;37m> parameters  [0m→  AI + Human Psych + Infrastructure            [0;36m│[0m
-[0;36m│[0m  [0;37m> operations  [0m→  [0;32m● GDG TechSprint & Solution Challenge '26[0m    [0;36m│[0m
-[0;36m│[0m  [0;37m> status      [0m→  [0;32m● EXPANDING[0m                                  [0;36m│[0m
-[0;36m└────────────────────────────────────────────────────────────────┘[0m
-"I don't build features. I build emotion loops, behavioral systems, and identity feedback networks." — The Meta Framework
-
-[ 01 — COGNITIVE ECOSYSTEMS & INFRASTRUCTURE ]
-🌐 VESTA
-AI Social Intelligence Ecosystem
-
-Social media re-engineered for emotional resonance.
-
-Transforms the digital social layer from dopamine-farming to an emotionally intelligent identity network.
-
-✦ AI-generated personality intro profiles
-
-
-✦ Emotion-aware engagement & evolution badges
-
-
-✦ Weekly dynamic "refresh swipe" identity loops
-
-
-✦ Gaming ID neural integration (Valorant, BGMI)
-
-⚙️ fixIT
-Autonomous System Evolution Engine
-
-Infrastructure that heals and mutates itself.
-
-A self-evolving intelligence concept that moves beyond basic error correction into structural adaptation.
-
-✦ Failure Genome Mapping (structural breakdown)
-
-
-✦ Resilience Graph Brain (stability intelligence)
-
-
-✦ Mutation Proposal Engine (architecture evolution)
-
-
-✦ Predictive Incident Rehearsal forecasting
-
-📈 TradingRocket
-AI-Driven Market Strategy System
-
-Emotionless execution. Analysis-first design.
-
-A highly structured quantitative intelligence system built to ruthlessly isolate market math from human hype.
-
-✦ Paper-first strategy simulation intelligence
-
-
-✦ Yahoo Finance data layer ingestion
-
-
-✦ Modular API architecture for Zerodha Kite
-
-
-✦ Absolute risk-aware, system-based logic
-
-🧬 Nostalgia AI
-Cognitive Memory Companion
-
-Reconstructing the emotional architecture of the past.
-
-An experimental, emotionally intelligent system designed to map and simulate user nostalgia.
-
-✦ Memory Graph modeling user experiences
-
-
-✦ Era-specific conversational AI layers
-
-
-✦ Cultural dataset ingestion (cartoons, environments)
-
-
-✦ Identity + Memory resonance networking
-
-[ 02 — THE META-PROTOCOL ]
-What you are perceived as → shapes what you become → shapes what you output.
-
-A profound meta-framework for understanding and engineering human and digital identity systems. IPOP acts as the thinking layer behind every app, AI system, and user experience I architect. It maps how internal self-concept loops with external output (code, behavior, systems), bridging the gap between abstract thought and real-world execution.
-
-[ 03 — ACTIVE COMPILATIONS ]
-Plaintext
-[DSA Architecture  ] ██████████████░░░░░░  Striver A2Z aligned + C++ Mastery
-[Local AI Forges   ] █████████████████░░░  LM Studio + OpenClaw workflows
-[Global Sync       ] ████████████████████  GitHub local-first deployment mapping
-[AI/ML Operations  ] ████████████░░░░░░░░  AI for Bharat & Hackathon prototyping
-[ 04 — SYSTEM PRIMITIVES ]
-[ 05 — THE RUNTIME LOOP ]
-C++
-// yash_mahadeshvar.cpp — The Genesis Loop
-
-#include <Evolution>
-#include <Cognition>
-
-class RealityArchitect {
-private:
-    const Ecosystem philosophy = Ecosystem::BeyondFeatures;
-    
-public:
-    [[noreturn]] void execute_lifetime() {
-        while (system_is_online()) {
-            ingest_data(LocalAI | Advanced_DSA);
-            model_behavior(Psychology + GameMechanics);
-            architect_ecosystem();
-            
-            // Mutation Proposal: Systems must outlive their creator.
-            force_evolution(); 
-        }
-    }
-};
-
-int main() {
-    RealityArchitect yash;
-    yash.execute_lifetime(); // Infinite execution. No exit condition.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingyash9-bit&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0f0f11" width="50%" />
+</div>
+
+---
+
+## 🧱 ENGINEERING PHILOSOPHY
+
+```cpp
+while(alive) {
+    learn();
+    build();
+    refine();
+    repeat();
 }
-My apologies for the confusion earlier. Let's make this incredibly simple and foolproof. 
+```
 
-You only need to copy **one single block of code**. 
+**Discipline** > Motivation <br>
+**Structure** > Chaos <br>
+**Long-Term Depth** > Short-Term Noise  
 
-Here is the exact step-by-step guide. Follow this, and your profile will be updated instantly.
+---
 
-### Step 1: Open your GitHub editor
-1. Go to your special repository: [https://github.com/codingyash9-bit/codingyash9-bit](https://github.com/codingyash9-bit/codingyash9-bit)
-2. Open the **`README.md`** file.
-3. Click the **Pencil icon (✏️)** in the top right corner to edit the file.
-4. **Delete everything** currently in the text box so it is completely empty.
+## 🎯 CURRENT TRAJECTORY & VISION
 
-### Step 2: Copy this exact block
-Click the **"Copy" button** in the top right corner of the block below. Copy everything inside this box:
+* 📚 **Mastering Advanced DSA (C++)** & strengthening algorithmic thinking.
+* 🏗️ **Designing scalable AI systems** (like ParsentAI & FixIT).
+* 📊 **Building production-ready financial engines.**
+* 🌍 **Future Vision:** High-performance algorithmic systems, emotion-aware ecosystems, and deep-tech product architecture.
 
-```html
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=250&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=REALITY%20ARCHITECT%20%7C%20COGNITIVE%20ENGINEER&descSize=12&descAlignY=65&descColor=8A2BE2&stroke=00F7FF&strokeWidth=1" alt="Header"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=✦+Products+are+temporary.+Ecosystems+are+eternal.;✦+Architecting+systems+that+behave+like+living+organisms.;✦+AI+%7C+Machine+Learning+%7C+Infrastructure+Intelligence;✦+Emotion-aware+networks.+Scalable+logic.+Zero+noise.;✦+Initializing+Cognitive+Core...+[████████████████░░░░]" alt="Typing SVG"/>
-</p>
-
-<br>
-
-<div align="center">
-
-```ansi
-[0;36m┌────────────────────────────────────────────────────────────────┐[0m
-[0;36m│[0m  [0;35mSYS.ENTITY [0m[0;36m[v18.0] — CORE DIRECTIVE OVERRIDE[0m                 [0;36m│[0m
-[0;36m├────────────────────────────────────────────────────────────────┤[0m
-[0;36m│[0m  [0;37m> designation [0m→  Systems Architect / AI Ecosystem Builder     [0;36m│[0m
-[0;36m│[0m  [0;37m> philosophy  [0m→  What you are perceived as, you become.       [0;36m│[0m
-[0;36m│[0m  [0;37m> parameters  [0m→  AI + Human Psych + Infrastructure            [0;36m│[0m
-[0;36m│[0m  [0;37m> operations  [0m→  [0;32m● GDG TechSprint & Solution Challenge '26[0m    [0;36m│[0m
-[0;36m│[0m  [0;37m> status      [0m→  [0;32m● EXPANDING[0m                                  [0;36m│[0m
-[0;36m└────────────────────────────────────────────────────────────────┘[0m
-"I don't build features. I build emotion loops, behavioral systems, and identity feedback networks." — The Meta Framework
-
-[ 01 — COGNITIVE ECOSYSTEMS & INFRASTRUCTURE ]
-🌐 VESTA
-AI Social Intelligence Ecosystem
-
-Social media re-engineered for emotional resonance.
-
-Transforms the digital social layer from dopamine-farming to an emotionally intelligent identity network.
-
-✦ AI-generated personality intro profiles
-
-
-✦ Emotion-aware engagement & evolution badges
-
-
-✦ Weekly dynamic "refresh swipe" identity loops
-
-
-✦ Gaming ID neural integration (Valorant, BGMI)
-
-⚙️ fixIT
-Autonomous System Evolution Engine
-
-Infrastructure that heals and mutates itself.
-
-A self-evolving intelligence concept that moves beyond basic error correction into structural adaptation.
-
-✦ Failure Genome Mapping (structural breakdown)
-
-
-✦ Resilience Graph Brain (stability intelligence)
-
-
-✦ Mutation Proposal Engine (architecture evolution)
-
-
-✦ Predictive Incident Rehearsal forecasting
-
-📈 TradingRocket
-AI-Driven Market Strategy System
-
-Emotionless execution. Analysis-first design.
-
-A highly structured quantitative intelligence system built to ruthlessly isolate market math from human hype.
-
-✦ Paper-first strategy simulation intelligence
-
-
-✦ Yahoo Finance data layer ingestion
-
-
-✦ Modular API architecture for Zerodha Kite
-
-
-✦ Absolute risk-aware, system-based logic
-
-🧬 Nostalgia AI
-Cognitive Memory Companion
-
-Reconstructing the emotional architecture of the past.
-
-An experimental, emotionally intelligent system designed to map and simulate user nostalgia.
-
-✦ Memory Graph modeling user experiences
-
-
-✦ Era-specific conversational AI layers
-
-
-✦ Cultural dataset ingestion (cartoons, environments)
-
-
-✦ Identity + Memory resonance networking
-
-[ 02 — THE META-PROTOCOL ]
-What you are perceived as → shapes what you become → shapes what you output.
-
-A profound meta-framework for understanding and engineering human and digital identity systems. IPOP acts as the thinking layer behind every app, AI system, and user experience I architect. It maps how internal self-concept loops with external output (code, behavior, systems), bridging the gap between abstract thought and real-world execution.
-
-[ 03 — ACTIVE COMPILATIONS ]
-Plaintext
-[DSA Architecture  ] ██████████████░░░░░░  Striver A2Z aligned + C++ Mastery
-[Local AI Forges   ] █████████████████░░░  LM Studio + OpenClaw workflows
-[Global Sync       ] ████████████████████  GitHub local-first deployment mapping
-[AI/ML Operations  ] ████████████░░░░░░░░  AI for Bharat & Hackathon prototyping
-[ 04 — SYSTEM PRIMITIVES ]
-[ 05 — THE RUNTIME LOOP ]
-C++
-// yash_mahadeshvar.cpp — The Genesis Loop
-
-#include <Evolution>
-#include <Cognition>
-
-class RealityArchitect {
-private:
-    const Ecosystem philosophy = Ecosystem::BeyondFeatures;
-    
-public:
-    [[noreturn]] void execute_lifetime() {
-        while (system_is_online()) {
-            ingest_data(LocalAI | Advanced_DSA);
-            model_behavior(Psychology + GameMechanics);
-            architect_ecosystem();
-            
-            // Mutation Proposal: Systems must outlive their creator.
-            force_evolution(); 
-        }
-    }
-};
-
-int main() {
-    RealityArchitect yash;
-    yash.execute_lifetime(); // Infinite execution. No exit condition.
-}
-[ 06 — NETWORK DIAGNOSTICS ]
-Step 3: Paste and Save
-Paste the codeMy apologies for the confusion earlier. Let's make this incredibly simple and foolproof.
-
-You only need to copy one single block of code.
-
-Here is the exact step-by-step guide. Follow this, and your profile will be updated instantly.
-
-Step 1: Open your GitHub editor
-Go to your special repository: https://github.com/codingyash9-bit/codingyash9-bit
-
-Open the README.md file.
-
-Click the Pencil icon (✏️) in the top right corner to edit the file.
-
-Delete everything currently in the text box so it is completely empty.
-
-Step 2: Copy this exact block
-Click the "Copy" button in the top right corner of the block below. Copy everything inside this box:
-
-HTML
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=250&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=REALITY%20ARCHITECT%20%7C%20COGNITIVE%20ENGINEER&descSize=12&descAlignY=65&descColor=8A2BE2&stroke=00F7FF&strokeWidth=1" alt="Header"/>
-</p>
+## 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=✦+Products+are+temporary.+Ecosystems+are+eternal.;✦+Architecting+systems+that+behave+like+living+organisms.;✦+AI+%7C+Machine+Learning+%7C+Infrastructure+Intelligence;✦+Emotion-aware+networks.+Scalable+logic.+Zero+noise.;✦+Initializing+Cognitive+Core...+[████████████████░░░░]" alt="Typing SVG"/>
+  <img src="https://github.com/codingyash9-bit/codingyash9-bit/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
-<br>
-
-<div align="center">
-
-```ansi
-[0;36m┌────────────────────────────────────────────────────────────────┐[0m
-[0;36m│[0m  [0;35mSYS.ENTITY [0m[0;36m[v18.0] — CORE DIRECTIVE OVERRIDE[0m                 [0;36m│[0m
-[0;36m├────────────────────────────────────────────────────────────────┤[0m
-[0;36m│[0m  [0;37m> designation [0m→  Systems Architect / AI Ecosystem Builder     [0;36m│[0m
-[0;36m│[0m  [0;37m> philosophy  [0m→  What you are perceived as, you become.       [0;36m│[0m
-[0;36m│[0m  [0;37m> parameters  [0m→  AI + Human Psych + Infrastructure            [0;36m│[0m
-[0;36m│[0m  [0;37m> operations  [0m→  [0;32m● GDG TechSprint & Solution Challenge '26[0m    [0;36m│[0m
-[0;36m│[0m  [0;37m> status      [0m→  [0;32m● EXPANDING[0m                                  [0;36m│[0m
-[0;36m└────────────────────────────────────────────────────────────────┘[0m
-"I don't build features. I build emotion loops, behavioral systems, and identity feedback networks." — The Meta Framework
-
-[ 01 — COGNITIVE ECOSYSTEMS & INFRASTRUCTURE ]
-🌐 VESTA
-AI Social Intelligence Ecosystem
-
-Social media re-engineered for emotional resonance.
-
-Transforms the digital social layer from dopamine-farming to an emotionally intelligent identity network.
-
-✦ AI-generated personality intro profiles
-
-
-✦ Emotion-aware engagement & evolution badges
-
-
-✦ Weekly dynamic "refresh swipe" identity loops
-
-
-✦ Gaming ID neural integration (Valorant, BGMI)
-
-⚙️ fixIT
-Autonomous System Evolution Engine
-
-Infrastructure that heals and mutates itself.
-
-A self-evolving intelligence concept that moves beyond basic error correction into structural adaptation.
-
-✦ Failure Genome Mapping (structural breakdown)
-
-
-✦ Resilience Graph Brain (stability intelligence)
-
-
-✦ Mutation Proposal Engine (architecture evolution)
-
-
-✦ Predictive Incident Rehearsal forecasting
-
-📈 TradingRocket
-AI-Driven Market Strategy System
-
-Emotionless execution. Analysis-first design.
-
-A highly structured quantitative intelligence system built to ruthlessly isolate market math from human hype.
-
-✦ Paper-first strategy simulation intelligence
-
-
-✦ Yahoo Finance data layer ingestion
-
-
-✦ Modular API architecture for Zerodha Kite
-
-
-✦ Absolute risk-aware, system-based logic
-
-🧬 Nostalgia AI
-Cognitive Memory Companion
-
-Reconstructing the emotional architecture of the past.
-
-An experimental, emotionally intelligent system designed to map and simulate user nostalgia.
-
-✦ Memory Graph modeling user experiences
-
-
-✦ Era-specific conversational AI layers
-
-
-✦ Cultural dataset ingestion (cartoons, environments)
-
-
-✦ Identity + Memory resonance networking
-
-[ 02 — THE META-PROTOCOL ]
-What you are perceived as → shapes what you become → shapes what you output.
-
-A profound meta-framework for understanding and engineering human and digital identity systems. IPOP acts as the thinking layer behind every app, AI system, and user experience I architect. It maps how internal self-concept loops with external output (code, behavior, systems), bridging the gap between abstract thought and real-world execution.
-
-[ 03 — ACTIVE COMPILATIONS ]
-Plaintext
-[DSA Architecture  ] ██████████████░░░░░░  Striver A2Z aligned + C++ Mastery
-[Local AI Forges   ] █████████████████░░░  LM Studio + OpenClaw workflows
-[Global Sync       ] ████████████████████  GitHub local-first deployment mapping
-[AI/ML Operations  ] ████████████░░░░░░░░  AI for Bharat & Hackathon prototyping
-[ 04 — SYSTEM PRIMITIVES ]
-[ 05 — THE RUNTIME LOOP ]
-C++
-// yash_mahadeshvar.cpp — The Genesis Loop
-
-#include <Evolution>
-#include <Cognition>
-
-class RealityArchitect {
-private:
-    const Ecosystem philosophy = Ecosystem::BeyondFeatures;
-    
-public:
-    [[noreturn]] void execute_lifetime() {
-        while (system_is_online()) {
-            ingest_data(LocalAI | Advanced_DSA);
-            model_behavior(Psychology + GameMechanics);
-            architect_ecosystem();
-            
-            // Mutation Proposal: Systems must outlive their creator.
-            force_evolution(); 
-        }
-    }
-};
-
-int main() {
-    RealityArchitect yash;
-    yash.execute_lifetime(); // Infinite execution. No exit condition.
-}
-[ 06 — NETWORK DIAGNOSTICS ]
-Step 3: Paste and Save
-Paste the code you just copied into your empty GitHub editor box.
-
-Click the "Preview" tab to see the magic happen.
-
-Finally, click the green "My apologies for the confusion earlier. Let's make this incredibly simple and foolproof.
-
-You only need to copy one single block of code.
-
-Here is the exact step-by-step guide. Follow this, and your profile will be updated instantly.
-
-Step 1: Open your GitHub editor
-Go to your special repository: https://github.com/codingyash9-bit/codingyash9-bit
-
-Open the README.md file.
-
-Click the Pencil icon (✏️) in the top right corner to edit the file.
-
-Delete everything currently in the text box so it is completely empty.
-
-Step 2: Copy this exact block
-Click the "Copy" button in the top right corner of the block below. Copy everything inside this box:
-
-HTML
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=250&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=REALITY%20ARCHITECT%20%7C%20COGNITIVE%20ENGINEER&descSize=12&descAlignY=65&descColor=8A2BE2&stroke=00F7FF&strokeWidth=1" alt="Header"/>
-</p>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=✦+Products+are+temporary.+Ecosystems+are+eternal.;✦+Architecting+systems+that+behave+like+living+organisms.;✦+AI+%7C+Machine+Learning+%7C+Infrastructure+Intelligence;✦+Emotion-aware+networks.+Scalable+logic.+Zero+noise.;✦+Initializing+Cognitive+Core...+[████████████████░░░░]" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 </p>
-
-<br>
-
-<div align="center">
-
-```ansi
-[0;36m┌────────────────────────────────────────────────────────────────┐[0m
-[0;36m│[0m  [0;35mSYS.ENTITY [0m[0;36m[v18.0] — CORE DIRECTIVE OVERRIDE[0m                 [0;36m│[0m
-[0;36m├────────────────────────────────────────────────────────────────┤[0m
-[0;36m│[0m  [0;37m> designation [0m→  Systems Architect / AI Ecosystem Builder     [0;36m│[0m
-[0;36m│[0m  [0;37m> philosophy  [0m→  What you are perceived as, you become.       [0;36m│[0m
-[0;36m│[0m  [0;37m> parameters  [0m→  AI + Human Psych + Infrastructure            [0;36m│[0m
-[0;36m│[0m  [0;37m> operations  [0m→  [0;32m● GDG TechSprint & Solution Challenge '26[0m    [0;36m│[0m
-[0;36m│[0m  [0;37m> status      [0m→  [0;32m● EXPANDING[0m                                  [0;36m│[0m
-[0;36m└────────────────────────────────────────────────────────────────┘[0m
-"I don't build features. I build emotion loops, behavioral systems, and identity feedback networks." — The Meta Framework
-
-[ 01 — COGNITIVE ECOSYSTEMS & INFRASTRUCTURE ]
-🌐 VESTA
-AI Social Intelligence Ecosystem
-
-Social media re-engineered for emotional resonance.
-
-Transforms the digital social layer from dopamine-farming to an emotionally intelligent identity network.
-
-✦ AI-generated personality intro profiles
-
-
-✦ Emotion-aware engagement & evolution badges
-
-
-✦ Weekly dynamic "refresh swipe" identity loops
-
-
-✦ Gaming ID neural integration (Valorant, BGMI)
-
-⚙️ fixIT
-Autonomous System Evolution Engine
-
-Infrastructure that heals and mutates itself.
-
-A self-evolving intelligence concept that moves beyond basic error correction into structural adaptation.
-
-✦ Failure Genome Mapping (structural breakdown)
-
-
-✦ Resilience Graph Brain (stability intelligence)
-
-
-✦ Mutation Proposal Engine (architecture evolution)
-
-
-✦ Predictive Incident Rehearsal forecasting
-
-📈 TradingRocket
-AI-Driven Market Strategy System
-
-Emotionless execution. Analysis-first design.
-
-A highly structured quantitative intelligence system built to ruthlessly isolate market math from human hype.
-
-✦ Paper-first strategy simulation intelligence
-
-
-✦ Yahoo Finance data layer ingestion
-
-
-✦ Modular API architecture for Zerodha Kite
-
-
-✦ Absolute risk-aware, system-based logic
-
-🧬 Nostalgia AI
-Cognitive Memory Companion
-
-Reconstructing the emotional architecture of the past.
-
-An experimental, emotionally intelligent system designed to map and simulate user nostalgia.
-
-✦ Memory Graph modeling user experiences
-
-
-✦ Era-specific conversational AI layers
-
-
-✦ Cultural dataset ingestion (cartoons, environments)
-
-
-✦ Identity + Memory resonance networking
-
-[ 02 — THE META-PROTOCOL ]
-What you are perceived as → shapes what you become → shapes what you output.
-
-A profound meta-framework for understanding and engineering human and digital identity systems. IPOP acts as the thinking layer behind every app, AI system, and user experience I architect. It maps how internal self-concept loops with external output (code, behavior, systems), bridging the gap between abstract thought and real-world execution.
-
-[ 03 — ACTIVE COMPILATIONS ]
-Plaintext
-[DSA Architecture  ] ██████████████░░░░░░  Striver A2Z aligned + C++ Mastery
-[Local AI Forges   ] █████████████████░░░  LM Studio + OpenClaw workflows
-[Global Sync       ] ████████████████████  GitHub local-first deployment mapping
-[AI/ML Operations  ] ████████████░░░░░░░░  AI for Bharat & Hackathon prototyping
-[ 04 — SYSTEM PRIMITIVES ]
-[ 05 — THE RUNTIME LOOP ]
-C++
-// yash_mahadeshvar.cpp — The Genesis Loop
-
-#include <Evolution>
-#include <Cognition>
-
-class RealityArchitect {
-private:
-    const Ecosystem philosophy = Ecosystem::BeyondFeatures;
-    
-public:
-    [[noreturn]] void execute_lifetime() {
-        while (system_is_online()) {
-            ingest_data(LocalAI | Advanced_DSA);
-            model_behavior(Psychology + GameMechanics);
-            architect_ecosystem();
-            
-            // Mutation Proposal: Systems must outlive their creator.
-            force_evolution(); 
-        }
-    }
-};
-
-int main() {
-    RealityArchitect yash;
-    yash.execute_lifetime(); // Infinite execution. No exit condition.
-}
-[ 06 — NETWORK DIAGNOSTICS ]
