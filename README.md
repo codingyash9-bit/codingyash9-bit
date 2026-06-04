@@ -1,152 +1,250 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Yash%20Mahadeshvar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00F7FF&height=280&section=header&text=YASH%20MAHADESHVAR&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=40&desc=SYSTEMS%20ARCHITECT%20%7C%20AI%20ENGINEER%20%7C%20DEPTH%20OVER%20NOISE&descSize=14&descAlignY=62&descColor=8A2BE2&stroke=00F7FF&strokeWidth=2"/>
 </p>
 
-<h2 align="center">
-  AI Systems Builder • C++ Developer • DSA Enthusiast • FinTech Architect
-</h2>
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+ParsentAI+%26+FixIT;Designing+Emotion-Aware+Platforms;C%2B%2B+%7C+DSA+Growth+Journey;Structured+Thinking.+Scalable+Systems.;No+Shortcuts.+Only+Depth." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=→+Architecting+ParsentAI+%26+FixIT+from+first+principles;→+C%2B%2B+%7C+DSA+%7C+The+grind+has+no+exit+condition;→+FinTech+engines+built+on+math%2C+not+hype;→+Emotion-aware+systems.+Scalable+logic.+Zero+shortcuts.;→+Still+loading...+[████████████████░░░░]" />
 </p>
+
+<br/>
 
 ---
 
-## 🧠 WHO AM I?
+<br/>
 
-```yaml
-name: Yash Mahadeshvar
-location: Mumbai, India
-focus: AI + Finance + Scalable Systems
-learning: Advanced DSA (C++)
-mission: Build intelligent systems that scale logically
+```ansi
+[0;36m╔══════════════════════════════════════════════════════════╗[0m
+[0;36m║[0m  [0;35mSYSTEM IDENTITY — [0m[0;36mINITIALIZED[0m                          [0;36m║[0m
+[0;36m╠══════════════════════════════════════════════════════════╣[0m
+[0;36m║[0m  [0;37moperator   [0m→  Yash Mahadeshvar                          [0;36m║[0m
+[0;36m║[0m  [0;37mlocation   [0m→  Mumbai, India                             [0;36m║[0m
+[0;36m║[0m  [0;37mclass      [0m→  Systems Architect / AI Builder             [0;36m║[0m
+[0;36m║[0m  [0;37mweapon     [0m→  C++ / Python / Structured Thinking         [0;36m║[0m
+[0;36m║[0m  [0;37mmission    [0m→  Build systems that outlast their creators   [0;36m║[0m
+[0;36m║[0m  [0;37mstatus     [0m→  [0;32m● ONLINE[0m                                    [0;36m║[0m
+[0;36m╚══════════════════════════════════════════════════════════╝[0m
 ```
 
-> **I engineer ideas into structured systems.** <br>
-> Not experiments. Not random code. *Systems.*
+<br/>
 
 ---
 
-## 🚀 LATEST DEPLOYMENTS
+## `> ACTIVE DEPLOYMENTS`
 
-### ⚡ FixIT – Automation CLI
-[![FixIT Status](https://img.shields.io/badge/Aura_Level-Over_9000-8A2BE2?style=for-the-badge)](#) [![Tech Stack](https://img.shields.io/badge/Node.js-Vanilla_JS-00FFFF?style=for-the-badge)](#)
+<br/>
 
-**Domain Expansion for Developers.** An advanced automation CLI and developer toolset designed to obliterate repetitive tasks and streamline workflows.
-- ⚙️ **Workflow Automation:** Execute complex dev tasks with single-line commands.
-- 💻 **Terminal Aura UI:** Custom CLI loading spinners and high-contrast color outputs.
-- 🛡️ **Bulletproof Logic:** Built to handle edge cases and heavy engineering workloads.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 ParsentAI – Cognitive AI Engine
-[![ParsentAI Status](https://img.shields.io/badge/AI_Core-Active-00F7FF?style=for-the-badge)](#) [![Tech Stack](https://img.shields.io/badge/Python-Machine_Learning-8A2BE2?style=for-the-badge)](#)
+### ⚡ FixIT
+![](https://img.shields.io/badge/STATUS-LIVE-00F7FF?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/STACK-Node.js-8A2BE2?style=flat-square&labelColor=0d0d0d)
 
-**Intelligent Data Processing.** A next-generation AI system built to understand, parse, and structure complex inputs with high-speed precision. 
-- 📄 **Deep-Tech Parsing:** Converts unstructured chaos into structured logic.
-- ⚡ **High-Speed Processing:** Optimized architecture for rapid data evaluation.
-- 🤖 **Neural Extraction:** Context-aware data handling and generation.
+> *A CLI that doesn't ask permission.*
+
+Automation toolset engineered to eliminate developer drag. Single commands. Maximum destruction of repetitive work.
+
+```
+✦ Workflow compression engine
+✦ Terminal UI with aura-level output
+✦ Engineered for edge cases
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 ParsentAI
+![](https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/STACK-Python / ML-8A2BE2?style=flat-square&labelColor=0d0d0d)
+
+> *Turns unstructured noise into structured truth.*
+
+Cognitive parsing engine. Context-aware. High-speed. Built on logic, not luck.
+
+```
+✦ Deep-structure data extraction
+✦ Neural context mapping
+✦ Precision-tuned architecture
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 🌌 CORE ARCHITECTURE (PREVIOUS BUILDS)
+## `> SEALED ARCHIVES`
 
 <details>
-  <summary><b>📈 IPOP & AI Stock Engine (FinTech)</b></summary>
-  <br>
-  <b>IPOP – Intelligent IPO Prediction Engine</b><br>
-  Turning IPO hype into data-backed clarity:
-  <ul>
-    <li>📊 Financial scoring (0–100) & Risk classification</li>
-    <li>📈 Long-term evaluation till 2027+</li>
-    <li>🧮 GMP vs fundamentals separation with an AI reasoning layer</li>
-  </ul>
-  <br>
-  <b>AI Stock Analysis Engine</b><br>
-  Designed for long-term compound decisions:
-  <ul>
-    <li>50 / 200 DMA positioning & RSI momentum strength</li>
-    <li>Revenue, profit growth, and valuation metrics</li>
-  </ul>
+<summary><code>📈 IPOP — Intelligent IPO Prediction Engine</code></summary>
+
+<br/>
+
+> *When everyone sees hype, IPOP sees the math underneath.*
+
+```python
+# IPOP Core Logic (simplified)
+def evaluate_ipo(data):
+    score       = financial_scoring(data)        # 0–100 composite
+    risk_class  = classify_risk(score)           # LOW | MED | HIGH
+    gmp_bias    = isolate_gmp_from_fundamentals() # removes noise
+    projection  = forecast_till(2027)
+    return {"score": score, "risk": risk_class, "outlook": projection}
+```
+
+- Financial scoring engine (0–100) with risk tiers
+- GMP vs fundamentals separation — AI reasoning layer
+- Long-horizon evaluation (2027+)
+
+<br/>
 </details>
 
 <details>
-  <summary><b>👤 VESTA – Emotionally Intelligent Social Ecosystem</b></summary>
-  <br>
-  <b>Next-gen AI social architecture:</b>
-  <ul>
-    <li>AI-generated personality-based profiles</li>
-    <li>Emotional reward loops & Social expansion intelligence</li>
-    <li>Gamified evolution layers with Gaming ID integration</li>
-  </ul>
-  <i>Goal: Social media that actually understands humans.</i>
+<summary><code>📊 AI Stock Analysis Engine</code></summary>
+
+<br/>
+
+> *Built for compound decisions. Not dopamine trades.*
+
+- 50 / 200 DMA positioning + RSI momentum strength
+- Revenue & profit growth pattern recognition
+- Valuation metric cross-referencing
+
+<br/>
 </details>
 
+<details>
+<summary><code>👤 VESTA — Emotionally Intelligent Social Ecosystem</code></summary>
+
+<br/>
+
+> *Social media that actually understands humans. Or at least tries harder than the existing ones.*
+
+- AI-generated personality-calibrated profiles
+- Emotional reward loops + social expansion intelligence
+- Gamified evolution layers with Gaming ID integration
+
+<br/>
+</details>
+
+<br/>
+
 ---
 
-## ⚙️ TECH STACK
+## `> ARSENAL`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,git,github,vscode,linux&theme=dark&perline=8" />
 </p>
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-111111?style=for-the-badge&logoColor=white&color=D32F2F"/>
-  <img src="https://img.shields.io/badge/Algorithms-111111?style=for-the-badge&logoColor=white&color=F57C00"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logoColor=white&color=8A2BE2"/>
-  <img src="https://img.shields.io/badge/FinTech-111111?style=for-the-badge&logoColor=white&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge&logoColor=white&color=1976D2"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-00F7FF?style=for-the-badge&labelColor=0d0d0d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-In%20Progress-8A2BE2?style=for-the-badge&labelColor=0d0d0d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Systems-Builder-00F7FF?style=for-the-badge&labelColor=0d0d0d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FinTech-Architect-8A2BE2?style=for-the-badge&labelColor=0d0d0d"/>
 </p>
 
----
-
-## 📊 SYSTEM DIAGNOSTICS (GITHUB STATS)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingyash9-bit&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0f0f11" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingyash9-bit&theme=tokyonight&border_radius=15&hide_border=true&background=0f0f11" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingyash9-bit&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0f0f11" width="50%" />
-</div>
+<br/>
 
 ---
 
-## 🧱 ENGINEERING PHILOSOPHY
+## `> SYSTEM DIAGNOSTICS`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingyash9-bit&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d0d0d&title_color=00F7FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=00F7FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingyash9-bit&theme=tokyonight&border_radius=10&hide_border=true&background=0d0d0d&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingyash9-bit&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d0d0d&title_color=00F7FF&text_color=c9d1d9" width="42%" />
+</div>
+
+<br/>
+
+---
+
+## `> CORE DIRECTIVE`
+
+<br/>
 
 ```cpp
-while(alive) {
-    learn();
-    build();
-    refine();
-    repeat();
+// yash_mahadeshvar.cpp — runtime loop
+
+class Engineer {
+    Philosophy axioms = {
+        "Discipline over motivation",
+        "Structure over chaos",
+        "Depth over noise",
+        "Systems over experiments"
+    };
+
+    void execute() {
+        while (alive) {
+            absorb();    // learn without ceiling
+            architect(); // design before building
+            refine();    // iterate with brutal honesty
+            ship();      // done > perfect
+        }
+    }
+};
+
+int main() {
+    Engineer yash;
+    yash.execute(); // no exit condition
+    return 0;       // unreachable
 }
 ```
 
-**Discipline** > Motivation <br>
-**Structure** > Chaos <br>
-**Long-Term Depth** > Short-Term Noise  
+<br/>
 
 ---
 
-## 🎯 CURRENT TRAJECTORY & VISION
+## `> CURRENT TRAJECTORY`
 
-* 📚 **Mastering Advanced DSA (C++)** & strengthening algorithmic thinking.
-* 🏗️ **Designing scalable AI systems** (like ParsentAI & FixIT).
-* 📊 **Building production-ready financial engines.**
-* 🌍 **Future Vision:** High-performance algorithmic systems, emotion-aware ecosystems, and deep-tech product architecture.
+<br/>
+
+```
+[DSA Mastery      ] ████████████░░░░░░░░  62%  — C++ deep-dive
+[ParsentAI v2     ] ██████████████░░░░░░  72%  — architecture phase
+[FixIT Production ] █████████████████░░░  88%  — final hardening
+[FinTech Engines  ] ████████░░░░░░░░░░░░  40%  — data layer
+[System Design    ] ██████████░░░░░░░░░░  50%  — ongoing
+```
+
+<br/>
 
 ---
 
-## 🐍 CONTRIBUTION MATRIX
+## `> CONTRIBUTION MATRIX`
 
 <p align="center">
-  <img src="https://github.com/codingyash9-bit/codingyash9-bit/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/codingyash9-bit/codingyash9-bit/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
+<br/>
+
 ---
 
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+  <sub>
+    <code>// systems don't build themselves. neither does discipline.</code>
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:8A2BE2&height=120&section=footer&reversal=true"/>
 </p>
