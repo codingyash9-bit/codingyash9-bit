@@ -1,6 +1,4 @@
-# Keep the source portrait private. Generated SVGs are safe to commit.
 profile.jpg
 
 __pycache__/
 *.py[cod]
-

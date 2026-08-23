@@ -17,6 +17,7 @@ except ImportError as exc:
 
 ROOT = Path(__file__).resolve().parent
 SOURCE_IMAGE = ROOT / "profile.jpg"
+ASCII_ART = ROOT / "portrait.txt"
 
 # Portrait controls: adjust these and rerun the script to tune the result.
 ASCII_WIDTH = 84
@@ -24,7 +25,7 @@ ASCII_HEIGHT = 58
 CONTRAST = 1.30
 BRIGHTNESS = 1.12
 CHARACTER_RAMP = "@%#*+=-:. "  # darkest to lightest
-ASCII_FONT_SIZE = 9.2
+ASCII_FONT_SIZE = 7.4
 CHARACTER_ASPECT = 0.55  # approximate monospace glyph width / line height
 
 VIEWBOX_WIDTH = 1500
@@ -83,6 +84,15 @@ def image_to_ascii(path: Path) -> list[str]:
         return rows
 
 
+def load_portrait() -> list[str] | None:
+    """Prefer the hand-tuned canonical artwork, with photo conversion as fallback."""
+    if ASCII_ART.exists():
+        return ASCII_ART.read_text(encoding="utf-8").splitlines()
+    if SOURCE_IMAGE.exists():
+        return image_to_ascii(SOURCE_IMAGE)
+    return None
+
+
 def text(x: int, y: int, value: str, css_class: str = "body", anchor: str = "start") -> str:
     return (
         f'<text x="{x}" y="{y}" class="{css_class}" text-anchor="{anchor}">'
@@ -99,8 +109,8 @@ def render_portrait(rows: list[str] | None) -> str:
             ]
         )
 
-    line_height = 9.6
-    top = 70
+    line_height = 9.55
+    top = 68
     rendered = []
     for index, row in enumerate(rows):
         rendered.append(
@@ -173,11 +183,58 @@ def build_svg(colors: dict[str, str], portrait: list[str] | None) -> str:
     return "\n".join(items) + "\n"
 
 
+def build_motion_svg() -> str:
+    """Create a restrained animated systems diagram for the README."""
+    return '''<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1500 250">
+<title id="title">Yash Mahadeshvar development loop</title>
+<desc id="desc">An animated terminal pipeline moving from learning through building to impact.</desc>
+<style>
+  :root { color-scheme: light dark; }
+  .bg { fill:#fffdf5; } .panel { fill:#fffaf0; stroke:#d0d7de; }
+  .line { stroke:#0969da; } .muted-line { stroke:#afb8c1; }
+  .txt { fill:#24292f; } .muted { fill:#57606a; } .accent { fill:#0969da; }
+  text { font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono',monospace; }
+  .flow { stroke-dasharray:8 14; animation:flow 2.8s linear infinite; }
+  .pulse { animation:pulse 2.4s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .pulse.b { animation-delay:.6s } .pulse.c { animation-delay:1.2s } .pulse.d { animation-delay:1.8s }
+  .cursor { animation:blink 1s steps(1,end) infinite; }
+  .scanner { animation:scan 4.5s ease-in-out infinite; }
+  @keyframes flow { to { stroke-dashoffset:-44; } }
+  @keyframes pulse { 0%,100% { opacity:.45; transform:scale(.82) } 45% { opacity:1; transform:scale(1.18) } }
+  @keyframes blink { 0%,48% { opacity:1 } 49%,100% { opacity:0 } }
+  @keyframes scan { 0%,100% { transform:translateX(0); opacity:.15 } 50% { transform:translateX(1370px); opacity:.75 } }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill:#080b0d; } .panel { fill:#0d1117; stroke:#30363d; }
+    .line { stroke:#7ee787; } .muted-line { stroke:#30363d; }
+    .txt { fill:#e6edf3; } .muted { fill:#8b949e; } .accent { fill:#7ee787; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { animation:none!important } }
+</style>
+<rect class="bg" width="1500" height="250" rx="14"/>
+<rect class="panel" x="24" y="24" width="1452" height="202" rx="10"/>
+<text x="52" y="57" class="accent" font-size="14" font-weight="700">codingyash9-bit@github:~$ ./build-loop --observe</text>
+<text x="52" y="84" class="muted" font-size="12">continuous development pipeline</text>
+<line x1="84" y1="145" x2="1416" y2="145" class="muted-line" stroke-width="2"/>
+<line x1="84" y1="145" x2="1416" y2="145" class="line flow" stroke-width="2"/>
+<line x1="64" y1="104" x2="64" y2="194" class="line scanner" stroke-width="2"/>
+<g text-anchor="middle">
+  <circle cx="150" cy="145" r="9" class="accent pulse"/><text x="150" y="181" class="txt" font-size="13">LEARN</text><text x="150" y="201" class="muted" font-size="10">DSA / AI / ML</text>
+  <circle cx="550" cy="145" r="9" class="accent pulse b"/><text x="550" y="181" class="txt" font-size="13">MODEL</text><text x="550" y="201" class="muted" font-size="10">reason about systems</text>
+  <circle cx="950" cy="145" r="9" class="accent pulse c"/><text x="950" y="181" class="txt" font-size="13">BUILD</text><text x="950" y="201" class="muted" font-size="10">backend / products</text>
+  <circle cx="1350" cy="145" r="9" class="accent pulse d"/><text x="1350" y="181" class="txt" font-size="13">IMPACT</text><text x="1350" y="201" class="muted" font-size="10">measure / improve</text>
+</g>
+<text x="1408" y="57" class="accent cursor" font-size="16">█</text>
+</svg>
+'''
+
+
 def main() -> None:
-    portrait = image_to_ascii(SOURCE_IMAGE) if SOURCE_IMAGE.exists() else None
+    portrait = load_portrait()
     for filename, colors in THEMES.items():
         (ROOT / filename).write_text(build_svg(colors, portrait), encoding="utf-8")
         print(f"generated {filename}")
+    (ROOT / "motion.svg").write_text(build_motion_svg(), encoding="utf-8")
+    print("generated motion.svg")
     if portrait is None:
         print("profile.jpg was not found; generated a labeled placeholder instead.")
         print("Add profile.jpg to this directory and rerun: python generate.py")
