@@ -128,7 +128,7 @@ def build_svg(colors: dict[str, str], portrait: list[str] | None) -> str:
         '<rect class="panel" x="24" y="24" width="525" height="620" rx="10"/>',
         '<rect class="panel" x="573" y="24" width="903" height="620" rx="10"/>',
         render_portrait(portrait),
-        text(600, 57, "codingyash9@github:~$ whoami", "small accent"),
+        text(600, 57, "codingyash9-bit@github:~$ whoami", "small accent"),
         text(600, 112, "Yash Mahadeshvar", "name warm"),
         text(602, 144, "AI & Data Science Student", "heading accent"),
         text(602, 170, "Developer • AI Builder • DSA Explorer", "body"),
@@ -164,9 +164,9 @@ def build_svg(colors: dict[str, str], portrait: list[str] | None) -> str:
 
     items.extend(
         [
-            text(44, 672, "codingyash9@github:~$ ./future.sh", "tiny accent"),
+            text(44, 672, "codingyash9-bit@github:~$ ./future.sh", "tiny accent"),
             text(330, 672, "Building products. Solving problems. Creating impact.", "tiny muted"),
-            text(1150, 672, "codingyash9@github:~$ █", "tiny accent"),
+            text(1150, 672, "codingyash9-bit@github:~$ █", "tiny accent"),
             "</svg>",
         ]
     )
