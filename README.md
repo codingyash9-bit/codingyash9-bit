@@ -1,3 +1,56 @@
+<a href="https://github.com/yashmahadeshvar">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yashmahadeshvar/yashmahadeshvar/main/dark_mode.svg">
+    <img
+      alt="Yash Mahadeshvar's GitHub Profile README"
+      src="https://raw.githubusercontent.com/yashmahadeshvar/yashmahadeshvar/main/light_mode.svg">
+  </picture>
+</a>
+
+<p align="center">
+  <b>Yash Mahadeshvar</b><br>
+  AI & Data Science Student • Developer • AI Builder • DSA Explorer
+</p>
+
+<p align="center">
+  Mumbai, India • VESIT • SE (AI & Data Science)
+</p>
+
+## Current Focus
+
+* DSA in Java
+* AI/ML
+* Backend & System Design
+* Building impactful products
+
+## Featured Projects
+
+* **VESTA** — AI Social Platform
+* **TradingRocket** — AI Market Intelligence
+* **IPOP** — IPO Prediction Engine
+* **Nostalgia AI** — Memory Graph & Nostalgia Companion
+* **Escape Galaxy** — 2D Space Shooter Game
+* **fixIT** — Autonomous Incident-to-Fix System
+* **ParsIT** — Reddit Sentiment Analyzer
+
+## Tech Stack
+
+`Java` `Python` `JavaScript` `SQL` `React` `Next.js` `Firebase` `Git & GitHub`
+
+## Motto
+
+> Don’t take shortcuts.
+> Control temper with meditation.
+
+
+
+
+
+
+
+
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                          HEADER BANNER                                  -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
