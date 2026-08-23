@@ -19,10 +19,10 @@ ROOT = Path(__file__).resolve().parent
 SOURCE_IMAGE = ROOT / "profile.jpg"
 
 # Portrait controls: adjust these and rerun the script to tune the result.
-ASCII_WIDTH = 65
+ASCII_WIDTH = 84
 ASCII_HEIGHT = 58
-CONTRAST = 1.85
-BRIGHTNESS = 1.02
+CONTRAST = 1.30
+BRIGHTNESS = 1.12
 CHARACTER_RAMP = "@%#*+=-:. "  # darkest to lightest
 ASCII_FONT_SIZE = 9.2
 CHARACTER_ASPECT = 0.55  # approximate monospace glyph width / line height
