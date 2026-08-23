@@ -25,7 +25,7 @@ ASCII_HEIGHT = 58
 CONTRAST = 1.30
 BRIGHTNESS = 1.12
 CHARACTER_RAMP = "@%#*+=-:. "  # darkest to lightest
-ASCII_FONT_SIZE = 7.4
+ASCII_FONT_SIZE = 8.4
 CHARACTER_ASPECT = 0.55  # approximate monospace glyph width / line height
 
 VIEWBOX_WIDTH = 1500
@@ -114,7 +114,7 @@ def render_portrait(rows: list[str] | None) -> str:
     rendered = []
     for index, row in enumerate(rows):
         rendered.append(
-            f'<text x="46" y="{top + index * line_height:.1f}" class="ascii" '
+            f'<text x="50" y="{top + index * line_height:.1f}" class="ascii" '
             f'xml:space="preserve">{html.escape(row, quote=False)}</text>'
         )
     return "\n".join(rendered)
