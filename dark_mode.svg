@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1500 700">
+<title id="title">Yash Mahadeshvar — AI and Data Science student</title>
+<desc id="desc">A terminal-inspired GitHub profile with an ASCII portrait, skills, projects, and current focus.</desc>
+<style>
+.bg{fill:#080b0d}.panel{fill:#0d1117;stroke:#30363d;stroke-width:1}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono',monospace;fill:#e6edf3}
+.body{font-size:15px}.small{font-size:13px}.tiny{font-size:11px}
+.muted{fill:#8b949e}.accent{fill:#7ee787}.warm{fill:#e3b341}
+.heading{font-size:15px;font-weight:700;letter-spacing:.6px}.name{font-size:45px;font-weight:700;letter-spacing:6px}
+.ascii{font-size:9.2px;fill:#b1bac4}.placeholder{font-size:14px;fill:#8b949e}
+</style>
+<rect class="bg" width="1500" height="700" rx="14"/>
+<rect class="panel" x="24" y="24" width="525" height="620" rx="10"/>
+<rect class="panel" x="573" y="24" width="903" height="620" rx="10"/>
+<text x="46" y="70.0" class="ascii" xml:space="preserve"></text>
+<text x="46" y="79.6" class="ascii" xml:space="preserve"></text>
+<text x="46" y="89.2" class="ascii" xml:space="preserve"></text>
+<text x="46" y="98.8" class="ascii" xml:space="preserve"></text>
+<text x="46" y="108.4" class="ascii" xml:space="preserve"></text>
+<text x="46" y="118.0" class="ascii" xml:space="preserve"></text>
+<text x="46" y="127.6" class="ascii" xml:space="preserve"></text>
+<text x="46" y="137.2" class="ascii" xml:space="preserve"></text>
+<text x="46" y="146.8" class="ascii" xml:space="preserve"></text>
+<text x="46" y="156.4" class="ascii" xml:space="preserve"></text>
+<text x="46" y="166.0" class="ascii" xml:space="preserve"></text>
+<text x="46" y="175.6" class="ascii" xml:space="preserve">              @@@@@@@@@@@@@@%%####%%@@@@@@@@@@@@@@</text>
+<text x="46" y="185.2" class="ascii" xml:space="preserve">              @@@@@@@@@@@%#*++++**#####@@@@@@@@@@@</text>
+<text x="46" y="194.8" class="ascii" xml:space="preserve">              @@@@@@@@@%#****#%@@@@@@%-.*@@@@@@@@@</text>
+<text x="46" y="204.4" class="ascii" xml:space="preserve">              @@@@@@@@%%%%%#%@@@@@@@@@@--=%@@@@@@@</text>
+<text x="46" y="214.0" class="ascii" xml:space="preserve">              @@@@@@@@@@@%%@@@@@@@@@@@@@*.:#@@@@@@</text>
+<text x="46" y="223.6" class="ascii" xml:space="preserve">              @@@@@@%%####%@@@@@@@@@@@@@%=-+%@@@@@</text>
+<text x="46" y="233.2" class="ascii" xml:space="preserve">              @@@@@#+=-==*@@@@@@@@@@%*#@@++++%@@@@</text>
+<text x="46" y="242.8" class="ascii" xml:space="preserve">              @@@@%*=-.  =@@@@@@@@@%+-=@#=---=%@@@</text>
+<text x="46" y="252.4" class="ascii" xml:space="preserve">              @@@#@%*+-:.=@@@@@@@%%###++-----:-@@@</text>
+<text x="46" y="262.0" class="ascii" xml:space="preserve">              @@@*##++-:.=@@@%@@%+*%@##=:-:    *@@</text>
+<text x="46" y="271.6" class="ascii" xml:space="preserve">              @@*##+==:  .%@%#%%%+--+:.:.  .-+=+@@</text>
+<text x="46" y="281.2" class="ascii" xml:space="preserve">              @* -=...    =@@**#%#=. =+:.--=##+-%@</text>
+<text x="46" y="290.8" class="ascii" xml:space="preserve">              @= :         %@%+###+=:=*..+::--:.*@</text>
+<text x="46" y="300.4" class="ascii" xml:space="preserve">              @.  ..       *@@%%%#*++*=..: .-. .=@</text>
+<text x="46" y="310.0" class="ascii" xml:space="preserve">              %:       :. .:%@##@%#**#=:::+#*-.-=#</text>
+<text x="46" y="319.6" class="ascii" xml:space="preserve">              %+-:: :. -=--=%%#*%@@@#*-. -##*=.=*#</text>
+<text x="46" y="329.2" class="ascii" xml:space="preserve">              %#++#-=: :*+:%@%+*#@@#**=+-+**+=.=**</text>
+<text x="46" y="338.8" class="ascii" xml:space="preserve">              @@@#==-:=%@**@@@#-*#%--*%%##*#*-.+#*</text>
+<text x="46" y="348.4" class="ascii" xml:space="preserve">              @@@%*%%*@@@*%@@@@#.*+.**@%%+::++-*#*</text>
+<text x="46" y="358.0" class="ascii" xml:space="preserve">              @@@@@@@##@@@@@@@@@+...*%@@%+:.-**%+=</text>
+<text x="46" y="367.6" class="ascii" xml:space="preserve">              @@@@@@%#%@@@@%@@@@@:  =%@@@*=-=##@*+</text>
+<text x="46" y="377.2" class="ascii" xml:space="preserve">              @@@@@%%%*%@@@@@@@@@#.  :%@@#++#%@@%%</text>
+<text x="46" y="386.8" class="ascii" xml:space="preserve">              @@@@@#%%#@@@@@@@@@%@+   *@##**#@%%%@</text>
+<text x="46" y="396.4" class="ascii" xml:space="preserve">              @@%#@+*#@@@@@@@@@@@%#.--*###+++##%%@</text>
+<text x="46" y="406.0" class="ascii" xml:space="preserve">              @@@@#.:#@@@@@@@@@@@@%-+=#**##*=+#%@@</text>
+<text x="46" y="415.6" class="ascii" xml:space="preserve">              @@@*+--@@@@@@@@@@@@@@%+ -+-*%%##%@@@</text>
+<text x="46" y="425.2" class="ascii" xml:space="preserve">              @@@+=-=@@@@@@@@@@@@@@@%..- -###%%@@@</text>
+<text x="46" y="434.8" class="ascii" xml:space="preserve">              @@@+-.+@@@@@@@@@@@@@@@@- -::=*##%@@@</text>
+<text x="46" y="444.4" class="ascii" xml:space="preserve">              @@@%- *@@@@@@@@@@@@@@@@= .:::-%@@@@@</text>
+<text x="46" y="454.0" class="ascii" xml:space="preserve">              @@@@# #@@@@@@@@@@@@@@@@%..=---+@@@@@</text>
+<text x="46" y="463.6" class="ascii" xml:space="preserve">              @@@@@*%@@@@@@@@@@@@@@@@@+=+-::#@@@@@</text>
+<text x="46" y="473.2" class="ascii" xml:space="preserve">              @@@@@@@@@@@@@@@@@@@@@@@@#++:.*@@@@@@</text>
+<text x="46" y="482.8" class="ascii" xml:space="preserve">              @@@@@@@@@@@@@@@@@@@@@@@@%+-=#@@@@@@@</text>
+<text x="46" y="492.4" class="ascii" xml:space="preserve">              @@@@@@@@@@@@@@@@@@@@@@%@%##@@@@@@@@@</text>
+<text x="46" y="502.0" class="ascii" xml:space="preserve">              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="46" y="511.6" class="ascii" xml:space="preserve">              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="46" y="521.2" class="ascii" xml:space="preserve"></text>
+<text x="46" y="530.8" class="ascii" xml:space="preserve"></text>
+<text x="46" y="540.4" class="ascii" xml:space="preserve"></text>
+<text x="46" y="550.0" class="ascii" xml:space="preserve"></text>
+<text x="46" y="559.6" class="ascii" xml:space="preserve"></text>
+<text x="46" y="569.2" class="ascii" xml:space="preserve"></text>
+<text x="46" y="578.8" class="ascii" xml:space="preserve"></text>
+<text x="46" y="588.4" class="ascii" xml:space="preserve"></text>
+<text x="46" y="598.0" class="ascii" xml:space="preserve"></text>
+<text x="46" y="607.6" class="ascii" xml:space="preserve"></text>
+<text x="46" y="617.2" class="ascii" xml:space="preserve"></text>
+<text x="600" y="57" class="small accent" text-anchor="start">codingyash9@github:~$ whoami</text>
+<text x="600" y="112" class="name warm" text-anchor="start">Yash Mahadeshvar</text>
+<text x="602" y="144" class="heading accent" text-anchor="start">AI &amp; Data Science Student</text>
+<text x="602" y="170" class="body" text-anchor="start">Developer • AI Builder • DSA Explorer</text>
+<text x="602" y="211" class="heading accent" text-anchor="start">&gt; about</text>
+<text x="622" y="238" class="body" text-anchor="start">VESIT  •  Mumbai, India</text>
+<text x="622" y="262" class="small muted" text-anchor="start">B.Tech — Artificial Intelligence &amp; Data Science</text>
+<rect class="panel" x="600" y="286" width="404" height="116" rx="7"/>
+<text x="620" y="315" class="heading accent" text-anchor="start">&gt; cat stack.txt</text>
+<text x="620" y="344" class="small" text-anchor="start">Java • Python • JavaScript • SQL</text>
+<text x="620" y="368" class="small" text-anchor="start">React • Next.js • Firebase</text>
+<text x="620" y="392" class="small muted" text-anchor="start">Git • GitHub • VS Code • HTML • CSS</text>
+<rect class="panel" x="1021" y="286" width="426" height="116" rx="7"/>
+<text x="1041" y="315" class="heading accent" text-anchor="start">&gt; current_focus</text>
+<text x="1041" y="344" class="small" text-anchor="start">DSA in Java  •  AI / ML</text>
+<text x="1041" y="368" class="small" text-anchor="start">Backend Systems</text>
+<text x="1041" y="392" class="small muted" text-anchor="start">Building AI Products</text>
+<text x="600" y="442" class="heading accent" text-anchor="start">&gt; ls projects/</text>
+<text x="622" y="472" class="small warm" text-anchor="start">VESTA</text>
+<text x="785" y="472" class="small" text-anchor="start">AI-powered social platform</text>
+<text x="622" y="496" class="small warm" text-anchor="start">TradingRocket</text>
+<text x="785" y="496" class="small" text-anchor="start">AI market intelligence &amp; stock analysis</text>
+<text x="622" y="520" class="small warm" text-anchor="start">IPOP</text>
+<text x="785" y="520" class="small" text-anchor="start">IPO prediction &amp; analysis engine</text>
+<text x="622" y="544" class="small warm" text-anchor="start">Nostalgia AI</text>
+<text x="785" y="544" class="small" text-anchor="start">Memory and nostalgia exploration</text>
+<text x="622" y="568" class="small warm" text-anchor="start">fixIT</text>
+<text x="785" y="568" class="small" text-anchor="start">Autonomous incident-to-fix system</text>
+<text x="622" y="592" class="small warm" text-anchor="start">ParsIT</text>
+<text x="785" y="592" class="small" text-anchor="start">Reddit sentiment analysis</text>
+<text x="622" y="616" class="small warm" text-anchor="start">Escape Galaxy</text>
+<text x="785" y="616" class="small" text-anchor="start">Browser-based vertical space shooter</text>
+<text x="44" y="672" class="tiny accent" text-anchor="start">codingyash9@github:~$ ./future.sh</text>
+<text x="330" y="672" class="tiny muted" text-anchor="start">Building products. Solving problems. Creating impact.</text>
+<text x="1150" y="672" class="tiny accent" text-anchor="start">codingyash9@github:~$ █</text>
+</svg>
