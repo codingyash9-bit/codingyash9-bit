@@ -33,8 +33,8 @@ FOCUS           DSA in Java / AI & ML / backend systems / AI products
 ## Engineering direction
 
 ```text
-01  strengthen problem-solving through DSA in Java
-02  design dependable AI and machine-learning workflows
-03  build clean backend systems with observable behavior
-04  turn experiments into thoughtful, usable products
+1.  Strengthen problem-solving.
+2.  Design dependable AI and machine-learning workflows.
+3.  Build based on creativity and experience.
+4.  Expand with entrepreneurship.
 ```
